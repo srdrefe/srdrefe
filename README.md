@@ -1,10 +1,10 @@
-# Merhaba, ben Serdar Efe 👋
+# Merhaba, ben Serdar Efe 
 
 Bilgisayar Teknolojisi Mezunu ve yazılım geliştiriciyim. C#, Python, web teknolojileri ve gömülü sistemler üzerinde projeler geliştiriyorum.
 
 ---
 
-### 🛠️ Teknolojiler & Beceriler
+###  Teknolojiler & Beceriler
 
 - **Diller:** C#, C++, PHP, JavaScript, SQL, HTML5, CSS3
 - **Veri & Optimizasyon:** MySQL, NumPy, SciPy
@@ -13,7 +13,7 @@ Bilgisayar Teknolojisi Mezunu ve yazılım geliştiriciyim. C#, Python, web tekn
 
 ---
 
-### 📫 İletişim
+###  İletişim
 
 - **LinkedIn:** [serdar-efe-şentürk](https://www.linkedin.com/in/serdar-efe-şentürk-87a532353)
 - **E-posta:** srdrefe04@gmail.com
