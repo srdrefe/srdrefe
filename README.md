@@ -7,7 +7,7 @@ Bilgisayar Teknolojisi Mezunu ve yazılım geliştiriciyim. C#, Python, web tekn
 ###  Teknolojiler & Beceriler
 
 - **Diller:** C#, C++, PHP, JavaScript, SQL, HTML5, CSS3
-- **Veri & Optimizasyon:** MySQL, NumPy, SciPy
+- **Veri & Optimizasyon:** MySQL
 - **Donanım & IoT:** ESP32, Arduino, Microcontroller Prototyping
 - **Geliştirme Ortamları & Araçlar:** Git, GitHub, Visual Studio, VS Code
 
